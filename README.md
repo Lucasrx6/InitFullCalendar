@@ -4,7 +4,7 @@
 Estudando meus primeiros passos com NPM.
 
 ## Acesso ao Site
-O site pode ser acessado através do link: https://lucasrx6.github.io/InitFullCalendar/
+**
 
 ## Funcionalidades
 - `Adicione sua tarefa`: Setas para mudar o mes de visualização.

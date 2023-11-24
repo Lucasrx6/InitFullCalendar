@@ -7,11 +7,13 @@ Estudando meus primeiros passos com NPM.
 **
 
 ## Funcionalidades
-- `Adicione sua tarefa`: Setas para mudar o mes de visualização.
-- ![image](https://github.com/Lucasrx6/InitFullCalendar/assets/86980974/fe26a599-3afc-4568-b93f-8f038871d918)
+- `Adicione sua tarefa`: Adiciona um evento ao calendario.
+- ![image](https://github.com/Lucasrx6/InitFullCalendar/assets/86980974/74a7048c-e6da-4b71-b7f8-80d6a6fbb516)
 
-- `Botão`: Para voltar o mes atua.
-- ![image](https://github.com/Lucasrx6/InitFullCalendar/assets/86980974/6598cd7b-ca6a-45b6-b677-205f09eb0d87)
+
+- `Calendario`: Recebe os eventos adicionados.
+- ![image](https://github.com/Lucasrx6/InitFullCalendar/assets/86980974/880019bd-5930-49ce-9b5c-3c1aa5e6086e)
+
 
 ## Tecnologias Utilizadas
 - HTML5
@@ -22,7 +24,8 @@ Estudando meus primeiros passos com NPM.
 ## Prints
 
 ### Tela Inicial:
-![image](https://github.com/Lucasrx6/InitFullCalendar/assets/86980974/a429937e-7683-4b18-8519-26866f652992)
+![image](https://github.com/Lucasrx6/InitFullCalendar/assets/86980974/ea48a8b6-7e46-4050-961b-ebff7d7593eb)
+
 
 
 _______________________________________________
